@@ -63,8 +63,8 @@
 
 <div>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=yashsinghal1234&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    width="48%" />
+  src="https://github-readme-stats-two-blond-83.vercel.app/api?username=yashsinghal1234&show_icons=true&theme=tokyonight&hide_border=true"
+  width="48%" />
 
   <img
     src="https://github-readme-streak-stats-eight.vercel.app/?user=yashsinghal1234&theme=tokyonight"
