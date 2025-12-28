@@ -61,8 +61,9 @@
 <img src="./assets/stats_logo.gif" width="35">&nbsp;**_Github Stats_**
 <img src="./assets/line_break.gif">
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsinghal1234&layout=compact&show_icons=true&theme=tokyonight" alt="yash singhal github-readme-stats" width="48%" />
+<div><img
+  src="https://github-readme-stats.vercel.app/api?username=yashsinghal1234&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  width="48%" />
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=yashsinghal1234&theme=tokyonight" width="51%" />
 </div>
 <br />
