@@ -5,8 +5,78 @@
 
 <img src="./assets/about_me.gif" width="35">&nbsp;**_About Me_**
 <img src="./assets/line_break.gif">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashsinghal1234&theme=tokyonight" width="100%" />
+</p>
 
-<p style="font-size: 1.25rem;">I'm a <b>Software Developer</b> who learned that the best way to understand code is to share it with the world. As an active <b>Open-Source Contributor</b>, I've found that debugging gets easier when you have thousands of potential collaborators on GitHub. I particularly enjoy working with Python, JavaScript and exploring the world of Artificial Intelligence (AI).</p>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr border="0">
+
+<td border="0">
+<a href="https://github.com/yashsinghal1234">
+<img src="https://img.shields.io/badge/FOLLOWERS-7-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=38BDF8"/>
+</a>
+</td>
+
+<td border="0">
+<a href="https://github.com/yashsinghal1234">
+<img src="https://img.shields.io/badge/STARS-41-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=F9A826"/>
+</a>
+</td>
+
+<td border="0">
+<img src="https://img.shields.io/badge/PROFILE_VIEWS-3-0D1117?style=for-the-badge&logo=eye&logoColor=white&labelColor=0D1117&color=A855F7"/>
+</td>
+
+<td border="0">
+<a href="https://www.linkedin.com/in/yash-singhal-94894b317/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</td>
+
+<td border="0">
+<a href="https://x.com/singhalyash307">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+</td>
+
+<td border="0">
+<a href="mailto:singhalyash307@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</td>
+
+<td border="0">
+<a href="https://leetcode.com/u/yash_singhal123/">
+<img src="https://img.shields.io/badge/LEETCODE-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+</td>
+
+<td border="0">
+<a href="https://www.codechef.com/users/yash_308">
+<img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+</td>
+
+</tr>
+</table>
+<p style="font-size: 1.15rem; line-height: 1.8;">
+I'm <b>Yash Singhal</b>, a B.Tech Computer Science student at <b>KIET Ghaziabad</b> passionate about building scalable web applications, AI-powered platforms, and developer-focused tools.
+
+I primarily work with <b>React, Node.js, Express.js, MongoDB, Java, and Python</b>, and enjoy turning ideas into full-stack products with clean UI and efficient backend architecture. My interests include <b>Generative AI, Open Source, DevOps, Cloud Technologies, and System Design</b>.
+
+I've worked on projects ranging from <b>AI-powered construction management systems</b> to <b>healthcare assistant platforms</b>, while also contributing to hackathons, coding communities, and collaborative development initiatives.
+
+Currently, I'm focused on:
+<br>
+
+⚡ Building impactful full-stack & AI applications  
+🚀 Exploring DevOps, Docker, CI/CD & Cloud workflows  
+🧠 Strengthening DSA and problem-solving skills  
+🌍 Contributing to Open Source and developer communities  
+
+I enjoy learning by building, experimenting with new technologies, and continuously improving both my development and problem-solving abilities.
+</p>
 
 <img src="./assets/script_sticker.gif" width="30">&nbsp;**_Stack I used_**
 <img src="./assets/line_break.gif">
