@@ -139,24 +139,42 @@
     </tr>
 </table>
 
-<img src="./assets/stats_logo.gif" width="35">&nbsp;**_Github Stats_**
+<img src="./assets/stats_logo.gif" width="35">&nbsp; <b>Github Statistics</b>
 <img src="./assets/line_break.gif">
 
-<div>
-  <img
-  src="https://github-readme-stats-two-blond-83.vercel.app/api?username=yashsinghal1234&show_icons=true&theme=tokyonight&hide_border=true"
-  width="48%" />
+<br>
 
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=yashsinghal1234&theme=tokyonight"
-    width="51%" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashsinghal1234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=5" width="100%" />
+</p>
+
+<table width="100%">
+<tr>
+
+<td align="left" width="50%">
+
+<img
+src="https://github-readme-stats-two-blond-83.vercel.app/api?username=yashsinghal1234&show_icons=true&theme=tokyonight&hide_border=true"
+width="100%" />
+
+</td>
+
+<td align="right" width="50%">
+
+<img
+src="https://github-readme-streak-stats-eight.vercel.app/?user=yashsinghal1234&theme=tokyonight&hide_border=true"
+width="100%" />
+
+</td>
+
+</tr>
+</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yashsinghal1234/yashsinghal1234/output/github-contribution-grid-snake-dark.svg" />
+</p>
 </div>
-<br />
-<div>
-    <img src="https://github-contributor-stats.vercel.app/api?username=yashsinghal1234&limit=4&theme=one_dark_pro&combine_all_yearly_contributions=true" width="48%" />
+<div align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashsinghal1234&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
-<br />
-<div>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashsinghal1234&theme=merko" alt="AmanDevelops github readme activity graph" width="100%" />
-</div>
+
 <br>
