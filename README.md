@@ -174,7 +174,11 @@ width="100%" />
 </p>
 </div>
 <div align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashsinghal1234&theme=tokyo-night&hide_border=true" width="100%" />
+<img 
+align="center" 
+src="https://github-readme-activity-graph.vercel.app/graph?username=yashsinghal1234&bg_color=0D1117&color=38BDF8&line=00BFFF&point=FFFFFF&area=true&hide_border=true&custom_title=Yash%20Singhal's%20Contribution%20Graph" 
+width="100%" 
+/>
 </div>
 
 <br>
