@@ -1,7 +1,9 @@
 <img src="./assets/header_divider.gif" width="100%">
 <img src="./assets/header.png">
 
-# <b>Hi there, I'm </b><a href="https://github.com/yashsinghal1234">Yash Singhal</a>
+# <b>Hi there, I'm </b><a href="https://github.com/yashsinghal1234">Yash Singhal</a> 👋
+
+### Full Stack Developer • DevOps Enthusiast • AI Explorer
 
 <img src="./assets/about_me.gif" width="35">&nbsp;**_About Me_**
 <img src="./assets/line_break.gif">
