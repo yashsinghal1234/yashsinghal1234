@@ -60,22 +60,33 @@
 
 </tr>
 </table>
-<p style="font-size: 1.15rem; line-height: 1.8;">
-I'm <b>Yash Singhal</b>, a B.Tech Computer Science student at <b>KIET Ghaziabad</b> passionate about building scalable web applications, AI-powered platforms, and developer-focused tools.
+<p align="left" style="font-size: 1.15rem; line-height: 1.9;">
 
-I primarily work with <b>React, Node.js, Express.js, MongoDB, Java, and Python</b>, and enjoy turning ideas into full-stack products with clean UI and efficient backend architecture. My interests include <b>Generative AI, Open Source, DevOps, Cloud Technologies, and System Design</b>.
+💻 <b>I'm Yash Singhal</b>, a <b>B.Tech Computer Science student at KIET Ghaziabad</b> passionate about building <b>scalable web applications</b>, <b>AI-powered platforms</b>, and developer-focused tools.
 
-I've worked on projects ranging from <b>AI-powered construction management systems</b> to <b>healthcare assistant platforms</b>, while also contributing to hackathons, coding communities, and collaborative development initiatives.
+⚡ I primarily work with <b>React</b>, <b>Node.js</b>, <b>Express.js</b>, <b>MongoDB</b>, <b>Java</b>, and <b>Python</b>, transforming ideas into <b>full-stack products</b> with clean UI and efficient backend architecture.
 
-Currently, I'm focused on:
+🚀 My interests include <b>Generative AI</b>, <b>Open Source</b>, <b>DevOps</b>, <b>Cloud Technologies</b>, and <b>System Design</b>, where I continuously explore modern technologies and solve real-world problems.
+
+🏗️ I've worked on projects ranging from <b>AI-powered construction management systems</b> to <b>healthcare assistant platforms</b>, while actively participating in <b>hackathons</b>, coding communities, and collaborative development initiatives.
+
+<h3>🎯 Currently Focused On</h3>
+
+<ul>
+  <li>⚡ Building impactful <b>Full Stack & AI applications</b></li>
+  <li>🚀 Exploring <b>DevOps, Docker, CI/CD & Cloud workflows</b></li>
+  <li>🧠 Strengthening <b>DSA and problem-solving skills</b></li>
+  <li>🌍 Contributing to <b>Open Source</b> and developer communities</li>
+</ul>
+
+✨ I enjoy learning by building, experimenting with emerging technologies, and continuously improving both my development and problem-solving abilities.
+
 <br>
 
-⚡ Building impactful full-stack & AI applications  
-🚀 Exploring DevOps, Docker, CI/CD & Cloud workflows  
-🧠 Strengthening DSA and problem-solving skills  
-🌍 Contributing to Open Source and developer communities  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="500">
+</p>
 
-I enjoy learning by building, experimenting with new technologies, and continuously improving both my development and problem-solving abilities.
 </p>
 
 <img src="./assets/script_sticker.gif" width="30">&nbsp;**_Stack I used_**
