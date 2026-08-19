@@ -146,9 +146,7 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashsinghal1234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=5" width="100%" />
-</p>
+
 
 <table width="100%">
 <tr>
