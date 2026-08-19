@@ -7,7 +7,8 @@
 
 <img src="./assets/about_me.gif" width="35">&nbsp;**_About Me_**
 <img src="./assets/line_break.gif">
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashsinghal1234&theme=tokyonight" width="100%" />
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
 </p>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
