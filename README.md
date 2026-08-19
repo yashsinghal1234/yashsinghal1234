@@ -66,11 +66,11 @@
 
 💻 <b>I'm Yash Singhal</b>, a <b>B.Tech Computer Science student at KIET Ghaziabad</b> passionate about building <b>scalable web applications</b>, <b>AI-powered platforms</b>, and developer-focused tools.
 
-⚡ I primarily work with <b>React</b>, <b>Node.js</b>, <b>Express.js</b>, <b>MongoDB</b>, <b>Java</b>, and <b>Python</b>, transforming ideas into <b>full-stack products</b> with clean UI and efficient backend architecture.
+⚡ I primarily work with <b>React</b>, <b>Node.js</b>, <b>Express.js</b>, <b>MongoDB</b>, <b>Java</b>, and <b>Python</b>, transforming ideas into <b>full-stack products</b> with clean UI and efficient backend systems.
 
 🚀 My interests include <b>Generative AI</b>, <b>Open Source</b>, <b>DevOps</b>, <b>Cloud Technologies</b>, and <b>System Design</b>, where I continuously explore modern technologies and solve real-world problems.
 
-🏗️ I've worked on projects ranging from <b>AI-powered construction management systems</b> to <b>healthcare assistant platforms</b>, while actively participating in <b>hackathons</b>, coding communities, and collaborative development initiatives.
+🏗️ I've worked on projects ranging from <b>AI-powered construction management systems</b> to <b>healthcare assistant platforms</b>, while actively participating in <b>hackathons</b>, coding communities, and collaborative engineering.
 
 <h3>🎯 Currently Focused On</h3>
 
@@ -178,7 +178,7 @@ width="100%" />
 <div align="center">
 <img 
 align="center" 
-src="https://github-readme-activity-graph.vercel.app/graph?username=yashsinghal1234&bg_color=0D1117&color=38BDF8&line=00BFFF&point=FFFFFF&area=true&hide_border=true&custom_title=Yash%20Singhal's%20Contribution%20Graph" 
+src="https://github-readme-activity-graph.vercel.app/graph?username=yashsinghal1234&bg_color=0D1117&color=38BDF8&line=00BFFF&point=FFFFFF&area=true&hide_border=true&custom_title=Yash%20Singhal's%20Contribution%20Graph"
 width="100%" 
 />
 </div>
