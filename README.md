@@ -16,18 +16,18 @@
 
 <td border="0">
 <a href="https://github.com/yashsinghal1234">
-<img src="https://img.shields.io/badge/FOLLOWERS-7-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=38BDF8"/>
+<img src="https://img.shields.io/github/followers/yashsinghal1234?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=38BDF8" />
 </a>
 </td>
 
 <td border="0">
 <a href="https://github.com/yashsinghal1234">
-<img src="https://img.shields.io/badge/STARS-41-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=F9A826"/>
+<img src="https://img.shields.io/github/stars/yashsinghal1234?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=F9A826" />
 </a>
 </td>
 
 <td border="0">
-<img src="https://img.shields.io/badge/PROFILE_VIEWS-3-0D1117?style=for-the-badge&logo=eye&logoColor=white&labelColor=0D1117&color=A855F7"/>
+<img src="https://komarev.com/ghpvc/?username=yashsinghal1234&style=for-the-badge&color=A855F7&label=PROFILE_VIEWS" />
 </td>
 
 <td border="0">
@@ -64,13 +64,13 @@
 </table>
 <p align="left" style="font-size: 1.15rem; line-height: 1.9;">
 
-💻 <b>I'm Yash Singhal</b>, a <b>B.Tech Computer Science student at KIET Ghaziabad</b> passionate about building <b>scalable web applications</b>, <b>AI-powered platforms</b>, and developer-focused tools.
+💻 <b>I'm Yash Singhal</b>, a <b>B.Tech Computer Science student at KIET Ghaziabad</b> passionate about building <b>scalable web applications</b>, <b>AI-powered platforms</b>, and developer-focused solutions.
 
 ⚡ I primarily work with <b>React</b>, <b>Node.js</b>, <b>Express.js</b>, <b>MongoDB</b>, <b>Java</b>, and <b>Python</b>, transforming ideas into <b>full-stack products</b> with clean UI and efficient backend systems.
 
-🚀 My interests include <b>Generative AI</b>, <b>Open Source</b>, <b>DevOps</b>, <b>Cloud Technologies</b>, and <b>System Design</b>, where I continuously explore modern technologies and solve real-world problems.
+🚀 My interests include <b>Generative AI</b>, <b>Open Source</b>, <b>DevOps</b>, <b>Cloud Technologies</b>, and <b>System Design</b>, where I continuously explore modern technologies and solve real-world challenges.
 
-🏗️ I've worked on projects ranging from <b>AI-powered construction management systems</b> to <b>healthcare assistant platforms</b>, while actively participating in <b>hackathons</b>, coding communities, and collaborative engineering.
+🏗️ I've worked on projects ranging from <b>AI-powered construction management systems</b> to <b>healthcare assistant platforms</b>, while actively participating in <b>hackathons</b>, coding communities, and collaborative development.
 
 <h3>🎯 Currently Focused On</h3>
 
@@ -154,7 +154,7 @@
 <td align="left" width="50%">
 
 <img
-src="https://github-readme-stats-two-blond-83.vercel.app/api?username=yashsinghal1234&show_icons=true&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats-two-blond-83.vercel.app/api?username=yashsinghal1234&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
 width="100%" />
 
 </td>
