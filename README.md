@@ -172,18 +172,4 @@ width="100%" />
 <p align="center">
   <img src="https://raw.githubusercontent.com/yashsinghal1234/yashsinghal1234/output/github-contribution-grid-snake-dark.svg" />
 </p>
-</div>
-<div align="center">
-  <img
-    align="center"
-    src="https://raw.githubusercontent.com/yashsinghal1234/yashsinghal1234/main/profile-summary-card-output/tokyonight/4-productive-time.svg"
-    width="100%"
-    alt="Activity (self-hosted fallback)"
-  />
-</div>
 
-<br>
-
-## 📈 Contribution Graph
-
-[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashsinghal1234&bg_color=0d1117&color=58a6ff&line=38bdf8&point=f8fafc&area=true&hide_border=true)](https://github.com/yashsinghal1234)
