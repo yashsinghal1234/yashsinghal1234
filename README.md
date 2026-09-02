@@ -174,11 +174,12 @@ width="100%" />
 </p>
 </div>
 <div align="center">
-<img 
-align="center" 
-src="https://github-readme-activity-graph.vercel.app/graph?username=yashsinghal1234&bg_color=0D1117&color=38BDF8&line=00BFFF&point=FFFFFF&area=true&hide_border=true&custom_title=Yash%20Singhal's%20Contribution%20Graph"
-width="100%" 
-/>
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/yashsinghal1234/yashsinghal1234/main/profile-summary-card-output/tokyonight/4-productive-time.svg"
+    width="100%"
+    alt="Activity (self-hosted fallback)"
+  />
 </div>
 
 <br>
